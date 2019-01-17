@@ -1,5 +1,6 @@
 from django.apps import AppConfig
 
 
-class App1Config(AppConfig):
-    name = 'app1'
+class app1Config(AppConfig):
+    name = 'Atividade'
+    verbose_name= 'Controle de Tarefas'
